@@ -1,0 +1,6 @@
+applications:
+- application_name: nijat.space"><h1>aaa</h1>
+  authentication_mode: non-authenticated
+  exclude_paths: []
+  target_url: https://nijat.space/`id`
+  type: web
